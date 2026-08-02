@@ -315,14 +315,14 @@
     <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur="0.5s" begin="1.5s" fill="freeze"/>
     <text x="744" y="572" class="lbl">GITHUB</text>
     <text x="744" y="600" class="row">contributions (30d)</text>
-    <text x="1084" y="600" text-anchor="end" class="val">70</text>
+    <text x="1084" y="600" text-anchor="end" class="val">71</text>
     <text x="744" y="626" class="row">followers</text>
     <text x="1084" y="626" text-anchor="end" class="val">0</text>
-    <rect x="744" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="5" dur="0.5s" begin="1.60s" fill="freeze"/><animate attributeName="y" from="708" to="703" dur="0.5s" begin="1.60s" fill="freeze"/></rect>
-    <rect x="768" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="11" dur="0.5s" begin="1.66s" fill="freeze"/><animate attributeName="y" from="708" to="697" dur="0.5s" begin="1.66s" fill="freeze"/></rect>
-    <rect x="792" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="37" dur="0.5s" begin="1.72s" fill="freeze"/><animate attributeName="y" from="708" to="671" dur="0.5s" begin="1.72s" fill="freeze"/></rect>
-    <rect x="816" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="11" dur="0.5s" begin="1.78s" fill="freeze"/><animate attributeName="y" from="708" to="697" dur="0.5s" begin="1.78s" fill="freeze"/></rect>
-    <rect x="840" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="64" dur="0.5s" begin="1.84s" fill="freeze"/><animate attributeName="y" from="708" to="644" dur="0.5s" begin="1.84s" fill="freeze"/></rect>
+    <rect x="744" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="11" dur="0.5s" begin="1.60s" fill="freeze"/><animate attributeName="y" from="708" to="697" dur="0.5s" begin="1.60s" fill="freeze"/></rect>
+    <rect x="768" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="37" dur="0.5s" begin="1.66s" fill="freeze"/><animate attributeName="y" from="708" to="671" dur="0.5s" begin="1.66s" fill="freeze"/></rect>
+    <rect x="792" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="11" dur="0.5s" begin="1.72s" fill="freeze"/><animate attributeName="y" from="708" to="697" dur="0.5s" begin="1.72s" fill="freeze"/></rect>
+    <rect x="816" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="64" dur="0.5s" begin="1.78s" fill="freeze"/><animate attributeName="y" from="708" to="644" dur="0.5s" begin="1.78s" fill="freeze"/></rect>
+    <rect x="840" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="5" dur="0.5s" begin="1.84s" fill="freeze"/><animate attributeName="y" from="708" to="703" dur="0.5s" begin="1.84s" fill="freeze"/></rect>
     <rect x="864" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="5" dur="0.5s" begin="1.90s" fill="freeze"/><animate attributeName="y" from="708" to="703" dur="0.5s" begin="1.90s" fill="freeze"/></rect>
     <rect x="888" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="5" dur="0.5s" begin="1.96s" fill="freeze"/><animate attributeName="y" from="708" to="703" dur="0.5s" begin="1.96s" fill="freeze"/></rect>
     <rect x="912" y="708" width="18" height="0" rx="3" fill="url(#gradBar)" opacity="0.9"><animate attributeName="height" from="0" to="5" dur="0.5s" begin="2.02s" fill="freeze"/><animate attributeName="y" from="708" to="703" dur="0.5s" begin="2.02s" fill="freeze"/></rect>
